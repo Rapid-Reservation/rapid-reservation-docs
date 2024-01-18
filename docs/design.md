@@ -25,11 +25,11 @@ The best part is your write a component once, you never write it again! you desi
 
 ### Guides and Tutorials
 
-- Here are some helpful guides for getting started with React:
+Here are some helpful guides for getting started with React:
 
-  - [Getting Started](https://react.dev/learn)
-  - [React: Tic Tac Toe](https://react.dev/learn/tutorial-tic-tac-toe) (Can be done in an hour and REALLY layouts the foundation needed for scope of this projet! If you can do this, you are good to go!)
-  - [Ultimate React Course with Mosh](https://www.youtube.com/watch?v=SqcY0GlETPk)
+- [Getting Started](https://react.dev/learn)
+- [React: Tic Tac Toe](https://react.dev/learn/tutorial-tic-tac-toe) (Can be done in an hour and REALLY layouts the foundation needed for scope of this projet! If you can do this, you are good to go!)
+- [Ultimate React Course with Mosh](https://www.youtube.com/watch?v=SqcY0GlETPk)
 
 ## API
 
@@ -37,14 +37,14 @@ For the backend, we will using an API to interact with database and retrieve inf
 
 ### Guides and Tutorials
 
-- Here are some helpful guides for getting started with APIS:
+Here are some helpful guides for getting started with APIS:
 
-  - [Getting Started with Fast API](https://fastapi.tiangolo.com/tutorial/)
-  - [Getting Started with Flask](https://flask.palletsprojects.com/en/3.0.x/quickstart/)
-  - [What is an API?](https://www.ibm.com/topics/api)
-  - [Simple REST API in Flask](https://www.youtube.com/watch?v=zsYIw6RXjfM)
-  - [Simple Rest API in FastAPI](https://www.youtube.com/watch?v=iWS9ogMPOI0)
-  - [Simple Rest API in Typescript/Javascript](https://www.youtube.com/watch?v=i8xHOrPP3NA)
+- [Getting Started with Fast API](https://fastapi.tiangolo.com/tutorial/)
+- [Getting Started with Flask](https://flask.palletsprojects.com/en/3.0.x/quickstart/)
+- [What is an API?](https://www.ibm.com/topics/api)
+- [Simple REST API in Flask](https://www.youtube.com/watch?v=zsYIw6RXjfM)
+- [Simple Rest API in FastAPI](https://www.youtube.com/watch?v=iWS9ogMPOI0)
+- [Simple Rest API in Typescript/Javascript](https://www.youtube.com/watch?v=i8xHOrPP3NA)
 
 ## Postgres
 
@@ -54,10 +54,10 @@ Setting up databases are a pain, especially when you essentialy are setting them
 
 ### Guides and Tutorials
 
-- Here are some information on Postgres:
+Here are some information on Postgres:
 
-  - [Why is PostgreSQL so popular?](https://dev.to/maimoonaabid/why-is-postgresql-getting-so-popular-4o7m)
-  - [Setting up Postgres DB with Docker Compose!](https://www.youtube.com/watch?v=qECVC6t_2mU)
+- [Why is PostgreSQL so popular?](https://dev.to/maimoonaabid/why-is-postgresql-getting-so-popular-4o7m)
+- [Setting up Postgres DB with Docker Compose!](https://www.youtube.com/watch?v=qECVC6t_2mU)
 
 ## Supplmental Technology
 
