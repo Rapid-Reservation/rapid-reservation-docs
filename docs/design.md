@@ -46,6 +46,19 @@ For the backend, we will using an API to interact with database and retrieve inf
   - [Simple Rest API in FastAPI](https://www.youtube.com/watch?v=iWS9ogMPOI0)
   - [Simple Rest API in Typescript/Javascript](https://www.youtube.com/watch?v=i8xHOrPP3NA)
 
+## Postgres
+
+We will be using postgres for our database. PostgreSQL is a popular open-source relational database with numerous benefits for developers, including feature availability, standards compliance, community support, and project governance.
+
+Setting up databases are a pain, especially when you essentialy are setting them up one for dev, and one for prod. An EASY way to skip all of this uses our friend [Docker](https://www.docker.com/) to make it easy for us. We will be using `docker-compose` in order to quickly spin up a working database. Everything is managed in the docker compose file and it will spin it up for us. We then just its URL in the .env and BOOM, you are connected! I will have an example of this to show HOW easy and simple it is!
+
+### Guides and Tutorials
+
+- Here are some information on Postgres:
+
+  - [Why is PostgreSQL so popular?](https://dev.to/maimoonaabid/why-is-postgresql-getting-so-popular-4o7m)
+  - [Setting up Postgres DB with Docker Compose!]()
+
 ## Supplmental Technology
 
 - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
