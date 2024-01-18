@@ -1,6 +1,6 @@
-# Welcome to the Rapid Reservation Development Team
+# Source Control
 
-## Source Control
+## We love GitHub
 
 We will be heavily relying on Git for version control, using GitHub to host our repositories and GitHub Actions for any automation we might need.
 

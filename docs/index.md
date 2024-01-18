@@ -1,16 +1,21 @@
 # Welcome to the Rapid Reservation Development Team
 
-## Coming Soon
+## Introduction
 
-- `mkdocs new [dir-name]` - Create a new project.
-- `mkdocs serve` - Start the live-reloading docs server.
-- `mkdocs build` - Build the documentation site.
-- `mkdocs -h` - Print help message and exit.
+Welcome to the Rapid Reservation Doc Site! This will be a major place of reference in how and why things are done and a way for use to document as developers!
 
-## Project layout
+## Quick Links
+
+- [GitHub Organization](https://github.com/Rapid-Reservation)
+- [Rapid Reservartion UI]()
+- [Rapid Reservation API]()
+
+## Site layout
 
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
         team.md   # Team information
         github.md # Intro to GitHub
+
+### MORE COMING SOON

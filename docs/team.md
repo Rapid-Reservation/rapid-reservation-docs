@@ -1,4 +1,4 @@
-# Welcome to the Rapid Reservation Development Team
+# Development Team
 
 ## Meet the Team
 
