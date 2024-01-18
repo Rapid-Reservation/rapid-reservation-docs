@@ -37,7 +37,8 @@ For the backend, we will using an API to interact with database and retrieve inf
 
 ### Guides and Tutorials
 
-- Here are some helpful guides for getting started with APIS
+- Here are some helpful guides for getting started with APIS:
+
   - [Getting Started with Fast API](https://fastapi.tiangolo.com/tutorial/)
   - [Getting Started with Flask](https://flask.palletsprojects.com/en/3.0.x/quickstart/)
   - [What is an API?](https://www.ibm.com/topics/api)
