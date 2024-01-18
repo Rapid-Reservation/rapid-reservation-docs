@@ -7,6 +7,7 @@ Welcome to the Rapid Reservation Doc Site! This will be a major place of referen
 ## Quick Links
 
 - [GitHub Organization](https://github.com/Rapid-Reservation)
+- [Rapid Reservation Scrum Board](https://github.com/orgs/Rapid-Reservation/projects/1/views/1)
 - [Rapid Reservartion UI]()
 - [Rapid Reservation API]()
 
