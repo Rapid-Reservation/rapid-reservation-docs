@@ -31,11 +31,11 @@ The best part is your write a component once, you never write it again! you desi
   - [React: Tic Tac Toe](https://react.dev/learn/tutorial-tic-tac-toe) (Can be done in an hour and REALLY layouts the foundation needed for scope of this projet! If you can do this, you are good to go!)
   - [Ultimate React Course with Mosh](https://www.youtube.com/watch?v=SqcY0GlETPk)
 
-  ## API
+## API
 
-  For the backend, we will using an API to interact with database and retrieve information. For example, will have a `/api/foo/bar/Menu` endpoint that when hit, will return a JSON object of the whole menu, which we can then use React to take in endpoint, break it down and display in a menu format! This is up for debate, as there is very little javascript taught at Wake Tech, and while the Front End will be using Javascript, alot of actuall component design is HTML, which we have used, and the rest is easy to pick up. Designing an entire api in JS/TS might be out of scope for this project simple because of time to complete - time to learn. The other thought would be to use FastAPI or Flask as the API, which are both python! We have all taken python so there is less learning so easier for people to get started. This is something we will discuss in our first few meetings to figure out where we want to go!
+For the backend, we will using an API to interact with database and retrieve information. For example, will have a `/api/foo/bar/Menu` endpoint that when hit, will return a JSON object of the whole menu, which we can then use React to take in endpoint, break it down and display in a menu format! This is up for debate, as there is very little javascript taught at Wake Tech, and while the Front End will be using Javascript, alot of actuall component design is HTML, which we have used, and the rest is easy to pick up. Designing an entire api in JS/TS might be out of scope for this project simple because of time to complete - time to learn. The other thought would be to use FastAPI or Flask as the API, which are both python! We have all taken python so there is less learning so easier for people to get started. This is something we will discuss in our first few meetings to figure out where we want to go!
 
-  ### Guides and Tutorials\*\*
+### Guides and Tutorials
 
 - Here are some helpful guides for getting started with APIS
   - [Getting Started with Fast API](https://fastapi.tiangolo.com/tutorial/)
