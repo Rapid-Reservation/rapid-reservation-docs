@@ -18,6 +18,7 @@ Some of the most common commands you will use are:
 
 - `git clone <github remote url>` - This command will copy the repo to your local machine in the current working directory you are in.
 - `git pull` - This command pulls any changes from remote repo to your local. PULL OFTEN! Will save you from merge conflicts or the dreaded `git rebase`!
+- `git status` - This command shows the status of current changes. It will show what has been staged and what has not.
 - `git add <filename>` - This will stage the file to be commited to the branch.
 - `git commit -m "<insert commit message"` - This command is used commit your changes to your local branch
 - `git push origin <branch name>` - This command is used to push your local copy of the branch to GitHub repo copy of your branch
