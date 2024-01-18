@@ -2,12 +2,13 @@
 
 ## Development Stack
 
-- We have chose to use the following tech stack:
-  - Front End / UI: TBD
-  - Backend / API:TBD
-  - Database:
-  - Deployment:TBD
-  - Hosting:TBD
+We have chose to use the following tech stack:
+
+- Front End / UI: TBD
+- Backend / API:TBD
+- Database:
+- Deployment:TBD
+- Hosting:TBD
 
 ## Supplmental Technology
 
