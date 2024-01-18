@@ -4,11 +4,46 @@
 
 We have chose to use the following tech stack:
 
-- Front End / UI: TBD
+- Front End / UI: React (Possibly Next.js (react based))
 - Backend / API:TBD
-- Database:
+- Database: Postgres
 - Deployment:TBD
 - Hosting:TBD
+
+## Why seperate UI and API?
+
+Seperation of concerns is used alot in production enviroments. Having both the UI(front end) and API (backend) as seperate entities keeps the set of problems isolated. It is also helpful when working on a project, the UI folks can mock data and still build out components without the API. The API team can make sure the endpoints work and return relevant data. Once both side have a "finished" product, its matter of working together to determine what each endpoint should return and how the component will handle the information! Again, it sounds weird conceptually, but in practice it's actually really nice!
+
+## React
+
+React's primary goal is to minimize the bugs that occur when developers are building UIs. It does this through the use of components — self-contained, logical pieces of code that describe a portion of the user interface. These components can be composed together to create a full UI, and React abstracts away much of the rendering work, leaving you to concentrate on the UI design.
+
+**Why React for RR?**
+From an industry standpoint, react is the most popular way for Front End design. As this project is an capstone, and a way to show off what we have learned throughout WTCC, we want to show potential employers we undersand industry trends and are able to learn. React also has THE best tutorial and has a very low skill floor/barrier to entry, but a HIGH ceiling, making it accessible and viable for any developer!
+
+The best part is your write a component once, you never write it again! you design a button, you save it as a button component, and when you need a button, you just add that component and can customize the props as you see fit! It sounds weird at first, but watch the tutorial video or check out the docs and it will ALL make sense, I promise!
+
+### Guides and Tutorials
+
+- Here are some helpful guides for getting started with React:
+
+  - [Getting Started](https://react.dev/learn)
+  - [React: Tic Tac Toe](https://react.dev/learn/tutorial-tic-tac-toe) (Can be done in an hour and REALLY layouts the foundation needed for scope of this projet! If you can do this, you are good to go!)
+  - [Ultimate React Course with Mosh](https://www.youtube.com/watch?v=SqcY0GlETPk)
+
+  ## API
+
+  For the backend, we will using an API to interact with database and retrieve information. For example, will have a `/api/foo/bar/Menu` endpoint that when hit, will return a JSON object of the whole menu, which we can then use React to take in endpoint, break it down and display in a menu format! This is up for debate, as there is very little javascript taught at Wake Tech, and while the Front End will be using Javascript, alot of actuall component design is HTML, which we have used, and the rest is easy to pick up. Designing an entire api in JS/TS might be out of scope for this project simple because of time to complete - time to learn. The other thought would be to use FastAPI or Flask as the API, which are both python! We have all taken python so there is less learning so easier for people to get started. This is something we will discuss in our first few meetings to figure out where we want to go!
+
+  ### Guides and Tutorials\*\*
+
+- Here are some helpful guides for getting started with APIS
+  - [Getting Started with Fast API](https://fastapi.tiangolo.com/tutorial/)
+  - [Getting Started with Flask](https://flask.palletsprojects.com/en/3.0.x/quickstart/)
+  - [What is an API?](https://www.ibm.com/topics/api)
+  - [Simple REST API in Flask](https://www.youtube.com/watch?v=zsYIw6RXjfM)
+  - [Simple Rest API in FastAPI](https://www.youtube.com/watch?v=iWS9ogMPOI0)
+  - [Simple Rest API in Typescript/Javascript](https://www.youtube.com/watch?v=i8xHOrPP3NA)
 
 ## Supplmental Technology
 
