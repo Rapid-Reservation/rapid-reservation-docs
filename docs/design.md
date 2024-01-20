@@ -28,8 +28,10 @@ The best part is your write a component once, you never write it again! you desi
 Here are some helpful guides for getting started with React:
 
 - [Getting Started](https://react.dev/learn)
-- [React: Tic Tac Toe](https://react.dev/learn/tutorial-tic-tac-toe) (Can be done in an hour and REALLY layouts the foundation needed for scope of this projet! If you can do this, you are good to go!)
+- [React: Tic Tac Toe](https://react.dev/learn/tutorial-tic-tac-toe): Can be done in an hour and REALLY layouts the foundation needed for scope of this projet! If you can do this, you are good to go!
 - [Ultimate React Course with Mosh](https://www.youtube.com/watch?v=SqcY0GlETPk)
+
+- [React-Example](https://github.com/Rapid-Reservation/React-Example): I built a simple example React project that create restaraunt tablet that on button click we mark it as open or reserved to give you guys an example that correlates with our project!
 
 ## API
 
@@ -54,7 +56,7 @@ Setting up databases are a pain, especially when you essentialy are setting them
 
 ### Guides and Tutorials
 
-Here are some information on Postgres:
+Here are is some information on Postgres:
 
 - [Why is PostgreSQL so popular?](https://dev.to/maimoonaabid/why-is-postgresql-getting-so-popular-4o7m)
 - [Setting up Postgres DB with Docker Compose!](https://www.youtube.com/watch?v=qECVC6t_2mU)
