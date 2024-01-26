@@ -44,9 +44,10 @@ Here are some helpful guides for getting started with APIS:
 - [Getting Started with Fast API](https://fastapi.tiangolo.com/tutorial/)
 - [Getting Started with Flask](https://flask.palletsprojects.com/en/3.0.x/quickstart/)
 - [What is an API?](https://www.ibm.com/topics/api)
-- [Simple REST API in Flask](https://www.youtube.com/watch?v=zsYIw6RXjfM)
-- [Simple Rest API in FastAPI](https://www.youtube.com/watch?v=iWS9ogMPOI0)
-- [Simple Rest API in Typescript/Javascript](https://www.youtube.com/watch?v=i8xHOrPP3NA)
+- [FASTAPI and Flask based CRUD API](https://dev.to/alexmercedcoder/building-full-crud-rest-apis-with-flask-fastapi-using-psychopg2-2k1n)
+- [Video: Simple REST API in Flask](https://www.youtube.com/watch?v=zsYIw6RXjfM)
+- [Video: Simple Rest API in FastAPI](https://www.youtube.com/watch?v=iWS9ogMPOI0)
+- [Video: Simple Rest API in Typescript/Javascript](https://www.youtube.com/watch?v=i8xHOrPP3NA)
 
 ## Postgres
 
