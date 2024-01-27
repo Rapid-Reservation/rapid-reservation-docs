@@ -7,6 +7,8 @@ We have chose to use the following tech stack:
 - Front End / UI: React (Possibly Next.js (react based))
 - Backend / API:TBD
 - Database: Postgres
+- CI/CD: GitHub Actions
+- Testing: TBD (Playwright or Selenium)
 - Deployment:TBD
 - Hosting:TBD
 
