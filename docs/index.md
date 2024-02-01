@@ -10,7 +10,6 @@ Welcome to the Rapid Reservation Doc Site! This will be a major place of referen
 - [Rapid Reservation Scrum Board](https://github.com/orgs/Rapid-Reservation/projects/1/views/1)
 - [Rapid Reservartion UI](https://github.com/Rapid-Reservation/rapid-ui)
 - [Rapid Reservation API](https://github.com/Rapid-Reservation/rapid-api)
-- Hello William
 
 ## Site layout
 
